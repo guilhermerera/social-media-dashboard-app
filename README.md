@@ -12,7 +12,7 @@ How to use ReactJS to create a page that can be completely dinamic, thinking OOP
 <br>
 
  # | Live View (Work in Progress)
-- You can see how the app look rigth now [clicking here](social-dashboard-app.netlify.app)
+- You can see how the app look rigth now [clicking here](https://social-dashboard-app.netlify.app)
  
 <br>
 
