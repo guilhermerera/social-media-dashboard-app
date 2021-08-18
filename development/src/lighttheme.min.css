@@ -1,0 +1,41 @@
+body {
+  color: #1e202a;
+  background-color: white;
+}
+
+.bg-object {
+  background-color: #f5f7ff;
+}
+
+/*HEADER STYLING */
+.header-title-sub {
+  color: #63687e;
+}
+
+.theme-switch-text {
+  color: #63687e;
+}
+.theme-switch-trigger {
+  background: #aeb3cb;
+}
+.theme-switch-trigger-btn {
+  background-color: white;
+}
+
+/*MAIN DATA STYLING & OVERVIEW DATA STYLING */
+.main-data-card, .overview-card-items {
+  background-color: #f0f2fa;
+}
+.main-data-card-user, .main-data-card-subtitle, .overview-card-items-user, .overview-card-items-subtitle {
+  color: #63687e;
+}
+.main-data-card:hover, .overview-card-items:hover {
+  background-color: #E1E3F0;
+  cursor: pointer;
+}
+
+.overview-metrics {
+  color: #63687e;
+}
+
+/*# sourceMappingURL=lighttheme.min.css.map */
