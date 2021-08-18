@@ -1,8 +1,8 @@
-# This is a Work in Progress
+⚠️ This is a Work in Progress
 ## I'm studying ReactJS and SASS/SCSS in this project.
 
 # 📖 What I Wanna Learn
-How to use ReactJS to create a page that can be completely dinamic, thinking OOP, using grid, flex box and responsiveness best practices. How to properly organize my CSS in more than one file, separating what was meant to be structure and whats styling, so I can easily change the dark/light theme, while building those CSS files with SASS.
+How to use ReactJS to create a page that can be completely dinamic, thinking OOP, using grid, flex box and responsiveness best practices. How to set up and implement a theme color changer, wich I'm working on right now.
 
 <br>
 
@@ -11,7 +11,7 @@ How to use ReactJS to create a page that can be completely dinamic, thinking OOP
 
 <br>
 
- # | Live View (Work in Progress)
+# 🔎 Live View (Work in Progress)
 - You can see how the app look rigth now [clicking here](https://social-dashboard-app.netlify.app)
  
 <br>
