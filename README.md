@@ -8,6 +8,11 @@ How to use ReactJS to create a page that can be completely dinamic, thinking OOP
 
 # ⚒️ Buiding With
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
+
+<br>
+
+ # | Live View (Work in Progress)
+- You can see how the app look rigth now [clicking here](social-dashboard-app.netlify.app)
  
 <br>
 
