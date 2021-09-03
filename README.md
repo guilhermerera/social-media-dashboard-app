@@ -6,6 +6,18 @@ How to use ReactJS to create a page that can be completely dinamic, thinking OOP
 
 <br>
 
+# 📝 To-Do List
+🗹 Layout Components<br>
+🗹 Layout Styling <br>
+🗹 Responsive Layout Implementation <br>
+🗹 Components Styling <br>
+🗹 Dark Theme Styling <br>
+🗹 Light Theme Styling <br>
+☐ Switch Themes <br>
+
+
+<br>
+
 # ⚒️ Buiding With
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"> ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
 
