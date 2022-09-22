@@ -2,7 +2,8 @@
 ## I'm studying ReactJS and SASS/SCSS in this project.
 
 # 📖 What I Wanna Learn
-How to use ReactJS to create a page that can be completely dinamic, thinking OOP, using grid, flex box and responsiveness best practices. How to set up and implement a theme color changer, wich I'm working on right now.
+How to use ReactJS to create a page that can be completely dinamic, using grid, flex box and responsiveness best practices. <br>
+UPDATE: This was my first react project ever and, even tho this is not finished, I'm proud of how far I got with the the little I knew back then. :)
 
 <br>
 
